@@ -1,4 +1,3 @@
-```markdown
 # URL Shortener
 
 A simple URL shortening service implemented in Go.
